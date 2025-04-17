@@ -45,6 +45,11 @@ API RESTful para gerenciamento de usuários desenvolvida com Spring Boot.
 -  mvn spring-boot:run
 -  A API estará disponível em: http://localhost:8080
 
+## 🧪 Executando os Testes
+
+1. Todos os testes
+-  mvn test
+
 ## 📚 Documentação da API
 
 🔗 Base URL: http://localhost:8080/api/users
